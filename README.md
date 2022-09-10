@@ -1,4 +1,4 @@
-# This project is made it by hamza_nawabi
+# This project is made it by Sharifullah_Shirzad
 # home page is completed
 # about page is completed
 # events page is completed 
